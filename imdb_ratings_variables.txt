@@ -1,0 +1,29 @@
+position - the order of the movie in the list
+
+created - the date the movie was rated by Matey
+
+description - a text description of the movie plot 
+
+Title type - the type of movie
+
+You rated - Matey's IMDb rating
+
+Runtime (mins) - Runtime of the movie in minutes
+
+Genres - the genres of the movie; each movie can have 1 or more genres
+
+Release Date (month/day/year) - the date of the release of the movie
+
+const - IMDb movie indicator
+
+modified - disregard this variable (full of NAs)
+
+Title - the title of the movie
+
+Directors - the names of the Director/Directors
+
+Num. Votes - the number of people who have rated the movie
+
+IMDb Rating - the IMDb rating of the movie
+
+Year - the year in which the movie was released
