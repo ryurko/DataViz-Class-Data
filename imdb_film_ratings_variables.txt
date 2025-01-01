@@ -1,0 +1,13 @@
+Title - the title of the movie
+
+Directors - the names of the Director/Directors
+
+vote_date - the date the movie was rated by Matey
+
+day_of_week - day of week for vote_date
+
+weekend - whether or not the vote_date was on the weekend or week day
+
+ratings - Low (0-4), Med (4-7), or High (8-10) for Matey's film rating 
+
+movie_period - release window for movie, either Retro (1980 and prior), Old (1981 to 2000), Modern (2001 to 2018)

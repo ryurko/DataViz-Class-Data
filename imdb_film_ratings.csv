@@ -1,0 +1,738 @@
+Title,Directors,vote_date,day_of_week,weekend,duration,ratings,movie_period
+Zootopia,"Jared Bush, Byron Howard",2017-08-18,Friday,Workday,Medium,Med,Modern
+Snowden,Oliver Stone,2017-08-18,Friday,Workday,Long,Med,Modern
+The Nice Guys,Shane Black,2017-08-04,Friday,Workday,Medium,Med,Modern
+Love.net,Ilian Djevelekov,2017-07-31,Monday,Workday,Medium,Low,Modern
+Deadpool,Tim Miller,2017-07-30,Sunday,Weekend,Medium,Med,Modern
+A Bittersweet Life,Kim Jee-woon,2017-07-28,Friday,Workday,Medium,Med,Modern
+The Handmaiden,Chan-wook Park,2017-07-28,Friday,Workday,Long,High,Modern
+The Imitation Game,Morten Tyldum,2017-07-28,Friday,Workday,Medium,Med,Modern
+Finding Nemo,"Andrew Stanton, Lee Unkrich",2017-07-28,Friday,Workday,Medium,Low,Modern
+Spirited Away,Hayao Miyazaki,2017-06-30,Friday,Workday,Long,Med,Modern
+Howl's Moving Castle,Hayao Miyazaki,2017-06-30,Friday,Workday,Medium,Med,Modern
+A Cure for Wellness,Gore Verbinski,2017-06-26,Monday,Workday,Long,High,Modern
+The Lion King,"Roger Allers, Rob Minkoff",2017-06-26,Monday,Workday,Short,High,Old
+Toy Story,John Lasseter,2017-06-26,Monday,Workday,Short,Low,Old
+A Silent Voice,Naoko Yamada,2017-06-26,Monday,Workday,Long,Low,Modern
+Your Name,Makoto Shinkai,2017-06-25,Sunday,Weekend,Medium,High,Modern
+The Legend of 1900,Giuseppe Tornatore,2017-06-20,Tuesday,Workday,Long,High,Old
+Guardians of the Galaxy Vol. 2,James Gunn,2017-06-08,Thursday,Workday,Long,High,Modern
+Guardians of the Galaxy,James Gunn,2017-06-08,Thursday,Workday,Long,Med,Modern
+Almost Famous,Cameron Crowe,2017-05-31,Wednesday,Workday,Long,Med,Old
+Wild Tales,Damián Szifron,2017-05-31,Wednesday,Workday,Long,High,Modern
+Alien,Ridley Scott,2017-05-24,Wednesday,Workday,Medium,Med,Retro
+The Unknown Woman,Giuseppe Tornatore,2017-05-22,Monday,Workday,Medium,Med,Modern
+Rogue One,Gareth Edwards,2017-05-22,Monday,Workday,Long,Med,Modern
+The Accountant,Gavin O'Connor,2017-05-22,Monday,Workday,Long,Med,Modern
+Shooter,Antoine Fuqua,2017-05-22,Monday,Workday,Long,Med,Modern
+The Invisible Guest,Oriol Paulo,2017-05-20,Saturday,Weekend,Medium,High,Modern
+The Meaning of Life,"Terry Jones, Terry Gilliam",2017-05-17,Wednesday,Workday,Medium,High,Old
+Einstein's God Model,Philip T. Johnson,2017-03-27,Monday,Workday,Short,Med,Modern
+Fantastic Beasts and Where to Find Them,David Yates,2017-03-27,Monday,Workday,Long,Med,Modern
+La La Land,Damien Chazelle,2017-03-27,Monday,Workday,Long,High,Modern
+Tetro,Francis Ford Coppola,2017-01-22,Sunday,Weekend,Long,Med,Modern
+Sleepers,Barry Levinson,2017-01-22,Sunday,Weekend,Long,High,Old
+The Box,Richard Kelly,2017-01-22,Sunday,Weekend,Medium,Med,Modern
+The Fugitive,Andrew Davis,2017-01-22,Sunday,Weekend,Long,High,Old
+Remember,Atom Egoyan,2017-01-16,Monday,Workday,Medium,High,Modern
+Don't Breathe,Fede Alvarez,2017-01-15,Sunday,Weekend,Short,Med,Modern
+Green Room,Jeremy Saulnier,2017-01-15,Sunday,Weekend,Medium,Med,Modern
+Hacksaw Ridge,Mel Gibson,2017-01-02,Monday,Workday,Long,Med,Modern
+Passengers,Morten Tyldum,2017-01-02,Monday,Workday,Medium,Med,Modern
+Room,Lenny Abrahamson,2017-01-02,Monday,Workday,Medium,Med,Modern
+Django Unchained,Quentin Tarantino,2017-01-02,Monday,Workday,Long,High,Modern
+Sully,Clint Eastwood,2017-01-02,Monday,Workday,Medium,Med,Modern
+Independence Day: Resurgence,Roland Emmerich,2017-01-02,Monday,Workday,Medium,Low,Modern
+Deepwater Horizon,Peter Berg,2017-01-02,Monday,Workday,Medium,Med,Modern
+The Legend of Tarzan,David Yates,2017-01-02,Monday,Workday,Medium,Low,Modern
+Now You See Me 2,Jon M. Chu,2017-01-02,Monday,Workday,Long,Med,Modern
+Allied,Robert Zemeckis,2016-12-25,Sunday,Weekend,Long,Med,Modern
+Ghost in the Shell,Mamoru Oshii,2016-12-11,Sunday,Weekend,Short,Med,Old
+Morgan,Luke Scott,2016-12-11,Sunday,Weekend,Medium,Low,Modern
+10 Cloverfield Lane,Dan Trachtenberg,2016-11-28,Monday,Workday,Medium,Med,Modern
+Margin Call,J.C. Chandor,2016-11-25,Friday,Workday,Medium,Med,Modern
+The One I Love,Charlie McDowell,2016-11-25,Friday,Workday,Medium,Med,Modern
+Who Am I,Baran bo Odar,2016-11-25,Friday,Workday,Medium,Med,Modern
+Arrival,Denis Villeneuve,2016-11-20,Sunday,Weekend,Medium,High,Modern
+Steamboy,Katsuhiro Ohtomo,2016-11-15,Tuesday,Workday,Long,Low,Modern
+Before I Go to Sleep,Rowan Joffe,2016-10-23,Sunday,Weekend,Medium,Med,Modern
+The Age of Adaline,Lee Toland Krieger,2016-10-03,Monday,Workday,Medium,Med,Modern
+Batman v Superman: Dawn of Justice,Zack Snyder,2016-07-26,Tuesday,Workday,Long,Low,Modern
+Sicario,Denis Villeneuve,2016-07-20,Wednesday,Workday,Long,Med,Modern
+Awake,Joby Harold,2016-07-17,Sunday,Weekend,Short,Med,Modern
+The Man Who Knew Infinity,Matthew Brown,2016-05-14,Saturday,Weekend,Medium,Med,Modern
+Eye in the Sky,Gavin Hood,2016-04-23,Saturday,Weekend,Medium,Med,Modern
+Son of Saul,Nemes László,2016-03-28,Monday,Workday,Medium,High,Modern
+Dawn of the Planet of the Apes,Matt Reeves,2016-03-27,Sunday,Weekend,Long,Med,Modern
+Spotlight,Tom McCarthy,2016-01-21,Thursday,Workday,Long,Med,Modern
+The Big Short,Adam McKay,2016-01-19,Tuesday,Workday,Long,Med,Modern
+Bridge of Spies,Steven Spielberg,2016-01-17,Sunday,Weekend,Long,Med,Modern
+The Hateful Eight,Quentin Tarantino,2016-01-16,Saturday,Weekend,Long,High,Modern
+The Revenant,Alejandro G. Iñárritu,2016-01-09,Saturday,Weekend,Long,Med,Modern
+Extremely Loud & Incredibly Close,Stephen Daldry,2016-01-05,Tuesday,Workday,Long,Low,Modern
+Safe House,Daniel Espinosa,2015-12-29,Tuesday,Workday,Medium,Med,Modern
+It Follows,David Robert Mitchell,2015-12-28,Monday,Workday,Medium,Low,Modern
+True Story,Rupert Goold,2015-12-28,Monday,Workday,Medium,Low,Modern
+Tomorrowland,Brad Bird,2015-12-28,Monday,Workday,Long,Low,Modern
+The Gift,Joel Edgerton,2015-12-28,Monday,Workday,Medium,Med,Modern
+Secret in Their Eyes,Billy Ray,2015-12-28,Monday,Workday,Medium,Med,Modern
+Sunshine,Danny Boyle,2015-12-27,Sunday,Weekend,Medium,Med,Modern
+The Abyss,James Cameron,2015-12-27,Sunday,Weekend,Long,High,Old
+Character,Mike van Diem,2015-12-25,Friday,Workday,Long,Med,Old
+Nothing But the Truth,Rod Lurie,2015-12-25,Friday,Workday,Medium,Med,Modern
+Zero. Lilac Lithuania,Emilis Velyvis,2015-12-25,Friday,Workday,Short,Med,Modern
+Eagle Eye,D.J. Caruso,2015-12-25,Friday,Workday,Medium,Med,Modern
+Upstream Color,Shane Carruth,2015-12-25,Friday,Workday,Medium,Med,Modern
+Surrogates,Jonathan Mostow,2015-12-25,Friday,Workday,Short,Med,Modern
+Black Mass,Scott Cooper,2015-12-25,Friday,Workday,Long,Low,Modern
+Avengers: Age of Ultron,Joss Whedon,2015-12-14,Monday,Workday,Long,Med,Modern
+Rise of the Planet of the Apes,Rupert Wyatt,2015-12-14,Monday,Workday,Medium,Med,Modern
+Mission: Impossible - Rogue Nation,Christopher McQuarrie,2015-12-14,Monday,Workday,Long,Med,Modern
+Self/less,Tarsem Singh,2015-12-14,Monday,Workday,Medium,Med,Modern
+Everest,Baltasar Kormákur,2015-12-14,Monday,Workday,Long,Med,Modern
+The Walk,Robert Zemeckis,2015-12-14,Monday,Workday,Long,Med,Modern
+The Man from U.N.C.L.E.,Guy Ritchie,2015-12-06,Sunday,Weekend,Medium,Med,Modern
+Mad Max: Fury Road,George Miller,2015-11-26,Thursday,Workday,Medium,Med,Modern
+The Martian,Ridley Scott,2015-11-26,Thursday,Workday,Long,Med,Modern
+Jurassic World,Colin Trevorrow,2015-11-21,Saturday,Weekend,Long,Med,Modern
+Mr. Holmes,Bill Condon,2015-07-20,Monday,Workday,Medium,Low,Modern
+Croupier,Mike Hodges,2015-07-14,Tuesday,Workday,Medium,High,Old
+The Last Samurai,Edward Zwick,2015-07-13,Monday,Workday,Long,Med,Modern
+The Guard,John Michael McDonagh,2015-07-11,Saturday,Weekend,Medium,Med,Modern
+The Master,Paul Thomas Anderson,2015-07-11,Saturday,Weekend,Long,Low,Modern
+Punch-Drunk Love,Paul Thomas Anderson,2015-07-10,Friday,Workday,Medium,Low,Modern
+Wonder Boys,Curtis Hanson,2015-07-06,Monday,Workday,Medium,Med,Old
+The Cabin in the Woods,Drew Goddard,2015-07-05,Sunday,Weekend,Medium,Low,Modern
+"Synecdoche, New York",Charlie Kaufman,2015-07-04,Saturday,Weekend,Long,High,Modern
+The Aura,Fabián Bielinsky,2015-06-01,Monday,Workday,Long,Med,Modern
+The Secret of Kells,"Tomm Moore, Nora Twomey",2015-06-01,Monday,Workday,Short,Med,Modern
+Sound of My Voice,Zal Batmanglij,2015-05-02,Saturday,Weekend,Short,Low,Modern
+Song of the Sea,Tomm Moore,2015-04-28,Tuesday,Workday,Medium,Med,Modern
+Ex Machina,Alex Garland,2015-04-19,Sunday,Weekend,Medium,Low,Modern
+How to Train Your Dragon 2,Dean DeBlois,2015-04-19,Sunday,Weekend,Medium,Med,Modern
+Blue Ruin,Jeremy Saulnier,2015-04-18,Saturday,Weekend,Short,Med,Modern
+The Impossible,J.A. Bayona,2015-04-15,Wednesday,Workday,Medium,Med,Modern
+Time Lapse,Bradley King,2015-04-04,Saturday,Weekend,Medium,Med,Modern
+Wicker Park,Paul McGuigan,2015-04-04,Saturday,Weekend,Medium,Med,Modern
+Changeling,Clint Eastwood,2015-04-04,Saturday,Weekend,Long,Med,Modern
+The Guest,Adam Wingard,2015-03-30,Monday,Workday,Medium,Low,Modern
+"I, Robot",Alex Proyas,2015-03-30,Monday,Workday,Medium,Med,Modern
+The Raid: Redemption,Gareth Huw Evans,2015-03-22,Sunday,Weekend,Medium,Low,Modern
+Exodus: Gods and Kings,Ridley Scott,2015-03-18,Wednesday,Workday,Long,Low,Modern
+Chronicle,Josh Trank,2015-03-18,Wednesday,Workday,Short,Med,Modern
+Elysium,Neill Blomkamp,2015-03-17,Tuesday,Workday,Medium,Med,Modern
+Chappie,Neill Blomkamp,2015-03-17,Tuesday,Workday,Medium,High,Modern
+The Signal,William Eubank,2015-03-15,Sunday,Weekend,Medium,Low,Modern
+The Giver,Phillip Noyce,2015-03-15,Sunday,Weekend,Medium,Med,Modern
+Unbroken,Angelina Jolie,2015-03-02,Monday,Workday,Long,Med,Modern
+Fifty Shades of Grey,Sam Taylor-Johnson,2015-03-01,Sunday,Weekend,Long,Low,Modern
+Pacific Rim,Guillermo del Toro,2015-02-21,Saturday,Weekend,Long,Low,Modern
+In Your Eyes,Brin Hill,2015-02-15,Sunday,Weekend,Medium,Med,Modern
+Coherence,James Ward Byrkit,2015-02-10,Tuesday,Workday,Short,Med,Modern
+Marshland,Alberto Rodríguez,2015-02-04,Wednesday,Workday,Medium,Med,Modern
+Triangle,Christopher Smith,2015-01-27,Tuesday,Workday,Medium,Med,Modern
+I Origins,Mike Cahill,2015-01-25,Sunday,Weekend,Medium,Med,Modern
+American Sniper,Clint Eastwood,2015-01-22,Thursday,Workday,Long,Med,Modern
+A Most Violent Year,J.C. Chandor,2015-01-22,Thursday,Workday,Long,Low,Modern
+Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,2015-01-16,Friday,Workday,Medium,High,Modern
+Whiplash,Damien Chazelle,2015-01-10,Saturday,Weekend,Medium,High,Modern
+What We Do in the Shadows,"Jemaine Clement, Taika Waititi",2015-01-02,Friday,Workday,Short,Med,Modern
+Foxcatcher,Bennett Miller,2014-12-31,Wednesday,Workday,Long,Med,Modern
+The Hobbit: The Battle of the Five Armies,Peter Jackson,2014-12-28,Sunday,Weekend,Long,Med,Modern
+The Hobbit: The Desolation of Smaug,Peter Jackson,2014-12-28,Sunday,Weekend,Long,Med,Modern
+The Drop,Michaël R. Roskam,2014-12-28,Sunday,Weekend,Medium,Med,Modern
+'71,Yann Demange,2014-12-26,Friday,Workday,Medium,Med,Modern
+The Interview,"Evan Goldberg, Seth Rogen",2014-12-26,Friday,Workday,Medium,Med,Modern
+The Maze Runner,Wes Ball,2014-12-24,Wednesday,Workday,Medium,Med,Modern
+John Wick,Chad Stahelski,2014-12-23,Tuesday,Workday,Medium,Low,Modern
+A History of Violence,David Cronenberg,2014-12-15,Monday,Workday,Medium,Med,Modern
+A Most Wanted Man,Anton Corbijn,2014-12-15,Monday,Workday,Long,Med,Modern
+Fury,David Ayer,2014-12-14,Sunday,Weekend,Long,Med,Modern
+Predestination,"The Spierig Brothers, The Spierig Brothers",2014-12-14,Sunday,Weekend,Medium,Med,Modern
+The Equalizer,Antoine Fuqua,2014-12-13,Saturday,Weekend,Long,Med,Modern
+Nightcrawler,Dan Gilroy,2014-12-07,Sunday,Weekend,Medium,Med,Modern
+The Theory of Everything,James Marsh,2014-12-04,Thursday,Workday,Long,Med,Modern
+Lee Daniels' The Butler,Lee Daniels,2014-11-23,Sunday,Weekend,Long,Med,Modern
+The Yellow Sea,Hong-jin Na,2014-11-16,Sunday,Weekend,Long,Med,Modern
+Interstellar,Christopher Nolan,2014-11-08,Saturday,Weekend,Long,High,Modern
+Gone Girl,David Fincher,2014-10-15,Wednesday,Workday,Long,Med,Modern
+Philomena,Stephen Frears,2014-09-14,Sunday,Weekend,Medium,Med,Modern
+The Book Thief,Brian Percival,2014-09-14,Sunday,Weekend,Long,High,Modern
+300: Rise of an Empire,Noam Murro,2014-09-13,Saturday,Weekend,Medium,Med,Modern
+The Count of Monte Cristo,Kevin Reynolds,2014-09-02,Tuesday,Workday,Long,Med,Modern
+Mother,Joon Ho Bong,2014-08-31,Sunday,Weekend,Long,Med,Modern
+The Man from Nowhere,Jeong-beom Lee,2014-08-25,Monday,Workday,Medium,High,Modern
+The Chaser,Hong-jin Na,2014-08-25,Monday,Workday,Long,High,Modern
+The Red Violin,François Girard,2014-08-17,Sunday,Weekend,Long,Med,Old
+Memories of Murder,Joon Ho Bong,2014-08-17,Sunday,Weekend,Long,High,Modern
+Lone Star,John Sayles,2014-08-16,Saturday,Weekend,Long,High,Old
+Stranger Than Fiction,Marc Forster,2014-08-13,Wednesday,Workday,Medium,Med,Modern
+Appleseed Alpha,Shinji Aramaki,2014-07-22,Tuesday,Workday,Medium,Med,Modern
+The Zero Theorem,Terry Gilliam,2014-07-22,Tuesday,Workday,Medium,Med,Modern
+I'll Follow You Down,Richie Mehta,2014-07-20,Sunday,Weekend,Medium,Low,Modern
+Edge of Tomorrow,Doug Liman,2014-07-20,Sunday,Weekend,Medium,Med,Modern
++1,Dennis Iliadis,2014-07-19,Saturday,Weekend,Medium,Med,Modern
+The Grand Budapest Hotel,Wes Anderson,2014-07-19,Saturday,Weekend,Medium,Med,Modern
+Primal Fear,Gregory Hoblit,2014-07-19,Saturday,Weekend,Long,High,Old
+The Body,Oriol Paulo,2014-07-17,Thursday,Workday,Medium,High,Modern
+Transcendence,Wally Pfister,2014-07-16,Wednesday,Workday,Medium,Low,Modern
+Defiance,Edward Zwick,2014-07-14,Monday,Workday,Long,Med,Modern
+Lantana,Ray Lawrence,2014-07-10,Thursday,Workday,Long,Med,Modern
+Man on a Ledge,Asger Leth,2014-06-30,Monday,Workday,Medium,Med,Modern
+Dredd,Pete Travis,2014-06-30,Monday,Workday,Medium,Med,Modern
+Enemy,Denis Villeneuve,2014-06-28,Saturday,Weekend,Medium,Med,Modern
+I Saw the Devil,Kim Jee-woon,2014-06-28,Saturday,Weekend,Long,High,Modern
+The Hidden Face,Andi Baiz,2014-06-28,Saturday,Weekend,Medium,Med,Modern
+In the House,François Ozon,2014-06-27,Friday,Workday,Medium,Med,Modern
+The Secret World of Arrietty,Hiromasa Yonebayashi,2014-06-26,Thursday,Workday,Medium,Med,Modern
+Misery,Rob Reiner,2014-06-26,Thursday,Workday,Medium,Med,Old
+Snowpiercer,Bong Joon Ho,2014-06-26,Thursday,Workday,Long,Med,Modern
+How to Train Your Dragon,"Dean DeBlois, Chris Sanders",2014-06-24,Tuesday,Workday,Medium,High,Modern
+It's Kind of a Funny Story,"Anna Boden, Ryan Fleck",2014-06-23,Monday,Workday,Medium,Med,Modern
+Frequency,Gregory Hoblit,2014-06-13,Friday,Workday,Medium,Med,Old
+Another Earth,Mike Cahill,2014-06-10,Tuesday,Workday,Medium,Med,Modern
+World War Z,Marc Forster,2014-06-04,Wednesday,Workday,Medium,Med,Modern
+The Matrix Reloaded,"The Wachowski Brothers, The Wachowski Brothers",2014-06-02,Monday,Workday,Long,Med,Modern
+The Girl with the Dragon Tattoo,David Fincher,2014-06-02,Monday,Workday,Long,Med,Modern
+The Hangover,Todd Phillips,2014-06-02,Monday,Workday,Medium,Med,Modern
+Oblivion,Joseph Kosinski,2014-06-02,Monday,Workday,Long,Med,Modern
+The Matrix Revolutions,"The Wachowski Brothers, The Wachowski Brothers",2014-06-02,Monday,Workday,Long,Med,Modern
+Stay,Marc Forster,2014-06-01,Sunday,Weekend,Medium,Med,Modern
+The Da Vinci Code,Ron Howard,2014-05-27,Tuesday,Workday,Long,Med,Modern
+Metropia,Tarik Saleh,2014-05-26,Monday,Workday,Short,Med,Modern
+The White Ribbon,Michael Haneke,2014-05-18,Sunday,Weekend,Long,Med,Modern
+The Great Gatsby,Baz Luhrmann,2014-05-18,Sunday,Weekend,Long,Med,Modern
+Star Trek Into Darkness,J.J. Abrams,2014-05-18,Sunday,Weekend,Long,Med,Modern
+The Hangover Part III,Todd Phillips,2014-05-18,Sunday,Weekend,Medium,Low,Modern
+The World's End,Edgar Wright,2014-05-18,Sunday,Weekend,Medium,Med,Modern
+Filth,Jon S. Baird,2014-05-18,Sunday,Weekend,Medium,Med,Modern
+Incendies,Denis Villeneuve,2014-05-11,Sunday,Weekend,Long,High,Modern
+The Pursuit of Happyness,Gabriele Muccino,2014-05-11,Sunday,Weekend,Medium,High,Modern
+End of Watch,David Ayer,2014-05-03,Saturday,Weekend,Medium,Med,Modern
+Non-Stop,Jaume Collet-Serra,2014-05-03,Saturday,Weekend,Medium,Med,Modern
+300,Zack Snyder,2014-04-27,Sunday,Weekend,Medium,Med,Modern
+Divergent,Neil Burger,2014-04-07,Monday,Workday,Long,Med,Modern
+Good Bye Lenin!,Wolfgang Becker,2014-04-05,Saturday,Weekend,Long,Med,Modern
+The Best Offer,Giuseppe Tornatore,2014-03-14,Friday,Workday,Long,Med,Modern
+Cell 211,Daniel Monzón,2014-03-01,Saturday,Weekend,Medium,Med,Modern
+Unbreakable,M. Night Shyamalan,2014-02-15,Saturday,Weekend,Medium,High,Old
+Training Day,Antoine Fuqua,2014-02-15,Saturday,Weekend,Long,Med,Modern
+Her,Spike Jonze,2014-02-01,Saturday,Weekend,Long,Med,Modern
+Safety Not Guaranteed,Colin Trevorrow,2014-01-24,Friday,Workday,Short,Low,Modern
+The Descendants,Alexander Payne,2014-01-24,Friday,Workday,Medium,Med,Modern
+Gladiator,Ridley Scott,2014-01-20,Monday,Workday,Long,Med,Old
+"The Good, the Bad and the Ugly",Sergio Leone,2014-01-20,Monday,Workday,Long,High,Retro
+Dallas Buyers Club,Jean-Marc Vallée,2014-01-20,Monday,Workday,Medium,Med,Modern
+Once Upon a Time in the West,Sergio Leone,2014-01-20,Monday,Workday,Long,High,Retro
+Toy Story 3,Lee Unkrich,2014-01-20,Monday,Workday,Medium,Med,Modern
+Some Like It Hot,Billy Wilder,2014-01-20,Monday,Workday,Long,Med,Retro
+Blue Jasmine,Woody Allen,2014-01-20,Monday,Workday,Medium,Med,Modern
+American Hustle,David O. Russell,2014-01-18,Saturday,Weekend,Long,Med,Modern
+The Wolf of Wall Street,Martin Scorsese,2014-01-16,Thursday,Workday,Long,High,Modern
+Frozen,"Chris Buck, Jennifer Lee",2014-01-12,Sunday,Weekend,Medium,Low,Modern
+47 Ronin,Carl Rinsch,2014-01-12,Sunday,Weekend,Long,Med,Modern
+The Help,Tate Taylor,2014-01-11,Saturday,Weekend,Long,Med,Modern
+Flight,Robert Zemeckis,2014-01-11,Saturday,Weekend,Long,Med,Modern
+First Knight,Jerry Zucker,2014-01-09,Thursday,Workday,Long,Low,Old
+Runner Runner,Brad Furman,2014-01-09,Thursday,Workday,Short,Low,Modern
+Prisoners,Denis Villeneuve,2014-01-09,Thursday,Workday,Long,Med,Modern
+The Wolverine,James Mangold,2014-01-09,Thursday,Workday,Long,Low,Modern
+Fruitvale Station,Ryan Coogler,2014-01-01,Wednesday,Workday,Short,Med,Modern
+Escape Plan,Mikael Håfström,2014-01-01,Wednesday,Workday,Medium,Med,Modern
+Mud,Jeff Nichols,2014-01-01,Wednesday,Workday,Long,Med,Modern
+Master and Commander: The Far Side of the World,Peter Weir,2014-01-01,Wednesday,Workday,Long,Med,Modern
+"Crouching Tiger, Hidden Dragon",Ang Lee,2013-12-30,Monday,Workday,Medium,High,Old
+The Orphanage,J.A. Bayona,2013-12-03,Tuesday,Workday,Medium,Med,Modern
+Traffic,Steven Soderbergh,2013-12-02,Monday,Workday,Long,Med,Old
+"When I Grow Up, I'll Be a Kangaroo",Radivoje Andric,2013-11-29,Friday,Workday,Medium,Med,Modern
+The Hunger Games: Catching Fire,Francis Lawrence,2013-11-25,Monday,Workday,Long,Med,Modern
+Zodiac,David Fincher,2013-11-09,Saturday,Weekend,Long,Med,Modern
+Saw,James Wan,2013-11-09,Saturday,Weekend,Medium,Med,Modern
+Atonement,Joe Wright,2013-11-09,Saturday,Weekend,Long,Med,Modern
+Mystic River,Clint Eastwood,2013-11-09,Saturday,Weekend,Long,High,Modern
+The Ring,Gore Verbinski,2013-11-09,Saturday,Weekend,Medium,Med,Modern
+Hugo,Martin Scorsese,2013-11-09,Saturday,Weekend,Long,High,Modern
+Contact,Robert Zemeckis,2013-11-09,Saturday,Weekend,Long,Med,Old
+Super 8,J.J. Abrams,2013-11-09,Saturday,Weekend,Medium,Med,Modern
+Sherlock Holmes: A Game of Shadows,Guy Ritchie,2013-11-09,Saturday,Weekend,Long,Med,Modern
+Lost Highway,David Lynch,2013-11-09,Saturday,Weekend,Long,High,Old
+Let Me In,Matt Reeves,2013-11-09,Saturday,Weekend,Medium,Med,Modern
+9,Shane Acker,2013-11-09,Saturday,Weekend,Short,Med,Modern
+Cube,Vincenzo Natali,2013-11-09,Saturday,Weekend,Short,Med,Old
+True Grit,"Ethan Coen, Joel Coen",2013-10-23,Wednesday,Workday,Medium,Med,Modern
+Stoker,Chan-wook Park,2013-10-23,Wednesday,Workday,Medium,Med,Modern
+The Place Beyond the Pines,Derek Cianfrance,2013-10-22,Tuesday,Workday,Long,Med,Modern
+Captain Phillips,Paul Greengrass,2013-10-21,Monday,Workday,Long,Med,Modern
+Disconnect,Henry-Alex Rubin,2013-10-15,Tuesday,Workday,Medium,Med,Modern
+The Words,"Brian Klugman, Lee Sternthal",2013-10-15,Tuesday,Workday,Medium,Med,Modern
+Zero Dark Thirty,Kathryn Bigelow,2013-10-15,Tuesday,Workday,Long,Low,Modern
+The Darjeeling Limited,Wes Anderson,2013-10-15,Tuesday,Workday,Medium,Med,Modern
+Gravity,Alfonso Cuarón,2013-10-06,Sunday,Weekend,Medium,Med,Modern
+The Intouchables,"Olivier Nakache, Eric Toledano",2013-09-28,Saturday,Weekend,Medium,High,Modern
+Seven Psychopaths,Martin McDonagh,2013-09-25,Wednesday,Workday,Medium,Med,Modern
+Revanche,Götz Spielmann,2013-09-22,Sunday,Weekend,Long,Med,Modern
+Raise the Red Lantern,Yimou Zhang,2013-09-22,Sunday,Weekend,Long,High,Old
+A Separation,Asghar Farhadi,2013-09-22,Sunday,Weekend,Long,Med,Modern
+Detachment,Tony Kaye,2013-09-15,Sunday,Weekend,Medium,High,Modern
+Pusher,Luis Prieto,2013-09-01,Sunday,Weekend,Short,Med,Modern
+Now You See Me,Louis Leterrier,2013-08-25,Sunday,Weekend,Medium,Med,Modern
+Hesher,Spencer Susser,2013-08-20,Tuesday,Workday,Medium,High,Modern
+Robot & Frank,Jake Schreier,2013-08-20,Tuesday,Workday,Short,Med,Modern
+Election,Alexander Payne,2013-08-20,Tuesday,Workday,Medium,Med,Old
+Midnight in Paris,Woody Allen,2013-08-20,Tuesday,Workday,Medium,Med,Modern
+The Life Aquatic with Steve Zissou,Wes Anderson,2013-08-20,Tuesday,Workday,Medium,Med,Modern
+The Hunt,Thomas Vinterberg,2013-08-17,Saturday,Weekend,Medium,High,Modern
+The Conjuring,James Wan,2013-08-15,Thursday,Workday,Medium,Med,Modern
+The Perks of Being a Wallflower,Stephen Chbosky,2013-07-31,Wednesday,Workday,Medium,Med,Modern
+Match Point,Woody Allen,2013-07-31,Wednesday,Workday,Long,Med,Modern
+Broken City,Allen Hughes,2013-07-29,Monday,Workday,Medium,Low,Modern
+Side Effects,Steven Soderbergh,2013-07-29,Monday,Workday,Medium,Med,Modern
+The Adjustment Bureau,George Nolfi,2013-07-18,Thursday,Workday,Medium,Med,Modern
+Trance,Danny Boyle,2013-07-18,Thursday,Workday,Medium,Med,Modern
+Life of Pi,Ang Lee,2013-04-15,Monday,Workday,Long,Med,Modern
+Argo,Ben Affleck,2013-01-17,Thursday,Workday,Medium,Med,Modern
+American Gangster,Ridley Scott,2013-01-03,Thursday,Workday,Long,Med,Modern
+Moonrise Kingdom,Wes Anderson,2013-01-02,Wednesday,Workday,Medium,Med,Modern
+John Dies at the End,Don Coscarelli,2012-12-31,Monday,Workday,Medium,Low,Modern
+Killing Them Softly,Andrew Dominik,2012-12-30,Sunday,Weekend,Medium,Med,Modern
+Nine Queens,Fabian Bielinsky,2012-12-28,Friday,Workday,Medium,High,Old
+Tinker Tailor Soldier Spy,Tomas Alfredson,2012-12-28,Friday,Workday,Long,Med,Modern
+The Insider,Michael Mann,2012-12-26,Wednesday,Workday,Long,Med,Old
+Insomnia,Christopher Nolan,2012-12-25,Tuesday,Workday,Medium,Med,Modern
+Never Let Me Go,Mark Romanek,2012-12-25,Tuesday,Workday,Medium,Med,Modern
+Cloud Atlas,"Tom Tykwer, Lana Wachowski",2012-11-06,Tuesday,Workday,Long,Med,Modern
+Looper,Rian Johnson,2012-11-03,Saturday,Weekend,Medium,Med,Modern
+Real Steel,Shawn Levy,2012-09-19,Wednesday,Workday,Long,Med,Modern
+Spider-Man,Sam Raimi,2012-09-04,Tuesday,Workday,Long,Med,Modern
+Spider-Man 3,Sam Raimi,2012-09-04,Tuesday,Workday,Long,Med,Modern
+Spider-Man 2,Sam Raimi,2012-09-04,Tuesday,Workday,Long,Med,Modern
+Equilibrium,Kurt Wimmer,2012-08-30,Thursday,Workday,Medium,Med,Modern
+Elite Squad,José Padilha,2012-08-23,Thursday,Workday,Medium,Med,Modern
+Taken,Pierre Morel,2012-08-22,Wednesday,Workday,Medium,Med,Modern
+The Sixth Sense,M. Night Shyamalan,2012-08-21,Tuesday,Workday,Medium,Med,Old
+Headhunters,Morten Tyldum,2012-08-21,Tuesday,Workday,Medium,Med,Modern
+Jacob's Ladder,Adrian Lyne,2012-08-21,Tuesday,Workday,Medium,Med,Old
+13 Assassins,Takashi Miike,2012-08-15,Wednesday,Workday,Long,Med,Modern
+State of Play,Kevin Macdonald,2012-08-15,Wednesday,Workday,Long,Med,Modern
+Fracture,Gregory Hoblit,2012-08-15,Wednesday,Workday,Medium,Med,Modern
+Special,"Hal Haberman, Jeremy Passmore",2012-08-13,Monday,Workday,Short,Med,Modern
+Ghost Dog: The Way of the Samurai,Jim Jarmusch,2012-08-13,Monday,Workday,Medium,Med,Old
+Superbad,Greg Mottola,2012-08-13,Monday,Workday,Medium,Med,Modern
+The Avengers,Joss Whedon,2012-08-13,Monday,Workday,Long,Med,Modern
+American Psycho,Mary Harron,2012-08-13,Monday,Workday,Medium,Med,Old
+Aliens,James Cameron,2012-08-13,Monday,Workday,Long,Med,Old
+Back to the Future,Robert Zemeckis,2012-08-13,Monday,Workday,Medium,Low,Old
+Taxi Driver,Martin Scorsese,2012-08-13,Monday,Workday,Medium,Med,Retro
+Thor,Kenneth Branagh,2012-08-13,Monday,Workday,Medium,Low,Modern
+Drive,Nicolas Winding Refn,2012-08-13,Monday,Workday,Medium,High,Modern
+The Social Network,David Fincher,2012-08-13,Monday,Workday,Medium,Med,Modern
+Lost in Translation,Sofia Coppola,2012-08-13,Monday,Workday,Medium,Med,Modern
+The Beach,Danny Boyle,2012-08-13,Monday,Workday,Medium,Med,Old
+Identity,James Mangold,2012-08-13,Monday,Workday,Short,Med,Modern
+Lord of War,Andrew Niccol,2012-08-13,Monday,Workday,Long,Med,Modern
+WALL·E,Andrew Stanton,2012-08-13,Monday,Workday,Medium,Med,Modern
+Red Dragon,Brett Ratner,2012-08-13,Monday,Workday,Long,Med,Modern
+The Girl with the Dragon Tattoo,Niels Arden Oplev,2012-08-13,Monday,Workday,Long,High,Modern
+Winter's Bone,Debra Granik,2012-08-13,Monday,Workday,Medium,Low,Modern
+Up in the Air,Jason Reitman,2012-08-13,Monday,Workday,Medium,Med,Modern
+Blood Diamond,Edward Zwick,2012-08-13,Monday,Workday,Long,Med,Modern
+Perfume: The Story of a Murderer,Tom Tykwer,2012-08-13,Monday,Workday,Long,Med,Modern
+Panic Room,David Fincher,2012-08-13,Monday,Workday,Medium,Med,Modern
+Following,Christopher Nolan,2012-08-13,Monday,Workday,Short,Med,Old
+Bruce Almighty,Tom Shadyac,2012-08-13,Monday,Workday,Medium,Med,Modern
+Mr. Brooks,Bruce A. Evans,2012-08-13,Monday,Workday,Medium,Med,Modern
+Hereafter,Clint Eastwood,2012-08-11,Saturday,Weekend,Long,Med,Modern
+Interview with the Vampire: The Vampire Chronicles,Neil Jordan,2012-08-11,Saturday,Weekend,Long,Med,Old
+Moneyball,Bennett Miller,2012-08-11,Saturday,Weekend,Long,Med,Modern
+Battle Royale,Kinji Fukasaku,2012-08-11,Saturday,Weekend,Medium,Med,Old
+The Dark Knight Rises,Christopher Nolan,2012-08-08,Wednesday,Workday,Long,Low,Modern
+Ted,Seth MacFarlane,2012-08-08,Wednesday,Workday,Medium,High,Modern
+No Man's Land,Danis Tanovic,2012-07-31,Tuesday,Workday,Medium,Med,Modern
+The Truman Show,Peter Weir,2012-07-30,Monday,Workday,Medium,High,Old
+Dead Poets Society,Peter Weir,2012-07-30,Monday,Workday,Long,Med,Old
+God Bless America,Bobcat Goldthwait,2012-07-29,Sunday,Weekend,Medium,High,Modern
+The Lincoln Lawyer,Brad Furman,2012-07-29,Sunday,Weekend,Medium,High,Modern
+Edge of Darkness,Martin Campbell,2012-07-28,Saturday,Weekend,Medium,Med,Modern
+La Haine,Mathieu Kassovitz,2012-07-22,Sunday,Weekend,Medium,High,Old
+Melancholia,Lars von Trier,2012-07-22,Sunday,Weekend,Long,Med,Modern
+Monsters,Gareth Edwards,2012-07-22,Sunday,Weekend,Medium,Med,Modern
+Primer,Shane Carruth,2012-07-22,Sunday,Weekend,Short,Med,Modern
+The Rum Diary,Bruce Robinson,2012-07-05,Thursday,Workday,Medium,High,Modern
+The Fall,Tarsem,2012-07-05,Thursday,Workday,Medium,Med,Modern
+The Limey,Steven Soderbergh,2012-06-11,Monday,Workday,Short,Med,Old
+Prometheus,Ridley Scott,2012-06-09,Saturday,Weekend,Long,Med,Modern
+The Time Traveler's Wife,Robert Schwentke,2012-05-21,Monday,Workday,Medium,Med,Modern
+Harry Potter and the Sorcerer's Stone,Chris Columbus,2012-05-21,Monday,Workday,Long,Low,Modern
+The Godfather,Francis Ford Coppola,2012-05-21,Monday,Workday,Long,High,Retro
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2012-05-21,Monday,Workday,Long,Low,Modern
+Good Will Hunting,Gus Van Sant,2012-05-21,Monday,Workday,Long,High,Old
+The Godfather: Part II,Francis Ford Coppola,2012-05-21,Monday,Workday,Long,High,Retro
+Ocean's Eleven,Steven Soderbergh,2012-05-21,Monday,Workday,Medium,Med,Modern
+Men in Black,Barry Sonnenfeld,2012-05-21,Monday,Workday,Medium,Low,Old
+The Godfather: Part III,Francis Ford Coppola,2012-05-21,Monday,Workday,Long,High,Old
+A.I. Artificial Intelligence,Steven Spielberg,2012-05-21,Monday,Workday,Long,High,Modern
+Atlantis: The Lost Empire,"Gary Trousdale, Kirk Wise",2012-05-21,Monday,Workday,Medium,Low,Modern
+Ocean's Twelve,Steven Soderbergh,2012-05-21,Monday,Workday,Long,Med,Modern
+Men in Black II,Barry Sonnenfeld,2012-05-21,Monday,Workday,Short,Low,Modern
+John Carter,Andrew Stanton,2012-05-20,Sunday,Weekend,Long,Med,Modern
+Soul Kitchen,Fatih Akin,2012-05-13,Sunday,Weekend,Medium,High,Modern
+One Hour Photo,Mark Romanek,2012-04-21,Saturday,Weekend,Medium,Med,Modern
+The Hunger Games,Gary Ross,2012-04-01,Sunday,Weekend,Long,Med,Modern
+A Prophet,Jacques Audiard,2012-03-27,Tuesday,Workday,Long,High,Modern
+Premonition,Mennan Yapo,2012-03-12,Monday,Workday,Medium,Med,Modern
+2046,Kar Wai Wong,2012-03-11,Sunday,Weekend,Long,Med,Modern
+Submarine,Richard Ayoade,2012-03-11,Sunday,Weekend,Medium,Med,Modern
+In Time,Andrew Niccol,2012-01-19,Thursday,Workday,Medium,Med,Modern
+The Skin I Live In,Pedro Almodóvar,2012-01-03,Tuesday,Workday,Medium,High,Modern
+Contagion,Steven Soderbergh,2011-12-19,Monday,Workday,Medium,Low,Modern
+Knowing,Alex Proyas,2011-12-04,Sunday,Weekend,Long,Med,Modern
+Barton Fink,Joel Coen,2011-09-23,Friday,Workday,Medium,Med,Old
+Caché,Michael Haneke,2011-08-25,Thursday,Workday,Medium,Med,Modern
+Breach,Billy Ray,2011-08-25,Thursday,Workday,Medium,Med,Modern
+Mindhunters,Renny Harlin,2011-08-25,Thursday,Workday,Medium,Med,Modern
+The Ghost Writer,Roman Polanski,2011-08-24,Wednesday,Workday,Long,Med,Modern
+Hanna,Joe Wright,2011-07-30,Saturday,Weekend,Medium,Low,Modern
+Gone Baby Gone,Ben Affleck,2011-07-09,Saturday,Weekend,Medium,Med,Modern
+Phone Booth,Joel Schumacher,2011-07-09,Saturday,Weekend,Short,Med,Modern
+Berlin Calling,Hannes Stöhr,2011-06-14,Tuesday,Workday,Medium,Med,Modern
+The Reader,Stephen Daldry,2011-06-14,Tuesday,Workday,Long,Med,Modern
+The Lives of Others,Florian Henckel von Donnersmarck,2011-06-11,Saturday,Weekend,Long,Med,Modern
+Deep End,Jerzy Skolimowski,2011-06-04,Saturday,Weekend,Medium,Med,Retro
+Scott Pilgrim vs. the World,Edgar Wright,2011-05-30,Monday,Workday,Medium,Med,Modern
+Unknown,Jaume Collet-Serra,2011-05-26,Thursday,Workday,Medium,Med,Modern
+Limitless,Neil Burger,2011-05-22,Sunday,Weekend,Medium,Med,Modern
+Source Code,Duncan Jones,2011-05-14,Saturday,Weekend,Medium,Med,Modern
+Four Lions,Chris Morris,2011-04-15,Friday,Workday,Medium,High,Modern
+The City of Lost Children,"Marc Caro, Jean-Pierre Jeunet",2011-04-10,Sunday,Weekend,Medium,Med,Old
+The Adventures of Baron Munchausen,Terry Gilliam,2011-04-10,Sunday,Weekend,Long,Med,Old
+Paranoid Park,Gus Van Sant,2011-03-18,Friday,Workday,Short,Med,Modern
+Class Trip,Claude Miller,2011-03-18,Friday,Workday,Medium,Low,Old
+The Man Who Wasn't There,Joel Coen,2011-03-17,Thursday,Workday,Medium,Med,Modern
+Enter the Void,Gaspar Noé,2011-03-14,Monday,Workday,Long,Med,Modern
+Black Swan,Darren Aronofsky,2011-03-05,Saturday,Weekend,Medium,High,Modern
+The Next Three Days,Paul Haggis,2011-02-28,Monday,Workday,Long,Med,Modern
+Todo el poder,Fernando Sariñana,2011-02-21,Monday,Workday,Medium,Med,Old
+Changing Lanes,Roger Michell,2011-02-06,Sunday,Weekend,Medium,Med,Modern
+City of Men,Paulo Morelli,2011-02-01,Tuesday,Workday,Medium,Med,Modern
+The Town,Ben Affleck,2011-02-01,Tuesday,Workday,Long,Med,Modern
+Ip Man,Wilson Yip,2011-01-24,Monday,Workday,Medium,Med,Modern
+Cleaner,Renny Harlin,2011-01-22,Saturday,Weekend,Short,Med,Modern
+Eternal Sunshine of the Spotless Mind,Michel Gondry,2011-01-20,Thursday,Workday,Medium,Med,Modern
+Buried,Rodrigo Cortés,2011-01-19,Wednesday,Workday,Medium,Med,Modern
+Inland Empire,David Lynch,2011-01-18,Tuesday,Workday,Long,High,Modern
+Gran Torino,Clint Eastwood,2011-01-16,Sunday,Weekend,Medium,Med,Modern
+El Topo,Alexandro Jodorowsky,2011-01-10,Monday,Workday,Long,Med,Retro
+Oxygen,Ivan Vyrypaev,2010-12-11,Saturday,Weekend,Short,Med,Modern
+Coffee and Cigarettes,Jim Jarmusch,2010-11-17,Wednesday,Workday,Medium,Med,Modern
+Arizona Dream,Emir Kusturica,2010-11-12,Friday,Workday,Long,Med,Old
+Holes,Andrew Davis,2010-11-07,Sunday,Weekend,Medium,Med,Modern
+The American,Anton Corbijn,2010-11-07,Sunday,Weekend,Medium,Med,Modern
+Blood Work,Clint Eastwood,2010-11-02,Tuesday,Workday,Medium,Med,Modern
+The Class,Ilmar Raag,2010-09-24,Friday,Workday,Medium,High,Modern
+Matando Cabos,Alejandro Lozano,2010-09-19,Sunday,Weekend,Medium,Med,Modern
+Y Tu Mamá También,Alfonso Cuarón,2010-08-21,Saturday,Weekend,Medium,Med,Modern
+Mr. Nobody,Jaco Van Dormael,2010-07-28,Wednesday,Workday,Long,Med,Modern
+Inception,Christopher Nolan,2010-07-23,Friday,Workday,Long,Low,Modern
+The Pledge,Sean Penn,2010-07-20,Tuesday,Workday,Long,Med,Modern
+Repo Men,Miguel Sapochnik,2010-07-19,Monday,Workday,Medium,Med,Modern
+After.Life,Agnieszka Wojtowicz-Vosloo,2010-07-19,Monday,Workday,Medium,Med,Modern
+Iron Man 2,Jon Favreau,2010-07-19,Monday,Workday,Long,Med,Modern
+Unknown,Simon Brand,2010-07-09,Friday,Workday,Short,Med,Modern
+The Method,Marcelo Piñeyro,2010-07-01,Thursday,Workday,Medium,Med,Modern
+Exam,Stuart Hazeldine,2010-06-28,Monday,Workday,Medium,Med,Modern
+Eastern Promises,David Cronenberg,2010-06-28,Monday,Workday,Medium,Med,Modern
+Timecrimes,Nacho Vigalondo,2010-06-27,Sunday,Weekend,Medium,Med,Modern
+Flightplan,Robert Schwentke,2010-06-25,Friday,Workday,Medium,Med,Modern
+Catch Me If You Can,Steven Spielberg,2010-06-18,Friday,Workday,Long,High,Modern
+Unthinkable,Gregor Jordan,2010-06-16,Wednesday,Workday,Medium,Med,Modern
+Body Double,Brian De Palma,2010-06-13,Sunday,Weekend,Medium,Med,Old
+Broken Embraces,Pedro Almodóvar,2010-06-10,Thursday,Workday,Long,Med,Modern
+I Love You Phillip Morris,"Glenn Ficarra, John Requa",2010-06-09,Wednesday,Workday,Medium,High,Modern
+Ong-Bak: The Thai Warrior,Prachya Pinkaew,2010-06-06,Sunday,Weekend,Medium,Med,Modern
+Cloverfield,Matt Reeves,2010-06-06,Sunday,Weekend,Short,Med,Modern
+Brick,Rian Johnson,2010-05-30,Sunday,Weekend,Medium,High,Modern
+Hot Fuzz,Edgar Wright,2010-05-30,Sunday,Weekend,Long,Med,Modern
+Dark City,Alex Proyas,2010-05-26,Wednesday,Workday,Medium,High,Old
+Burn After Reading,"Ethan Coen, Joel Coen",2010-05-24,Monday,Workday,Medium,Med,Modern
+Robin Hood,Ridley Scott,2010-05-23,Sunday,Weekend,Long,Med,Modern
+The Road,John Hillcoat,2010-05-23,Sunday,Weekend,Medium,Med,Modern
+The Lookout,Scott Frank,2010-05-20,Thursday,Workday,Medium,Med,Modern
+The Wrestler,Darren Aronofsky,2010-05-19,Wednesday,Workday,Medium,Med,Modern
+Kick-Ass,Matthew Vaughn,2010-05-14,Friday,Workday,Medium,Med,Modern
+The Secret in Their Eyes,Juan José Campanella,2010-05-10,Monday,Workday,Long,High,Modern
+Agora,Alejandro Amenábar,2010-05-09,Sunday,Weekend,Long,Med,Modern
+The Holy Mountain,Alexandro Jodorowsky,2010-05-09,Sunday,Weekend,Medium,Med,Retro
+Mission London,Dimitar Mitovski,2010-05-01,Saturday,Weekend,Medium,Med,Modern
+Bitter Moon,Roman Polanski,2010-05-01,Saturday,Weekend,Long,Med,Old
+"Blood In, Blood Out",Taylor Hackford,2010-05-01,Saturday,Weekend,Long,High,Old
+Wonderland,James Cox,2010-04-27,Tuesday,Workday,Medium,Med,Modern
+Sin Nombre,Cary Jôji Fukunaga,2010-04-23,Friday,Workday,Medium,Med,Modern
+Kiss Kiss Bang Bang,Shane Black,2010-04-23,Friday,Workday,Medium,Med,Modern
+SLC Punk!,James Merendino,2010-04-13,Tuesday,Workday,Medium,Med,Old
+The Salton Sea,D.J. Caruso,2010-04-11,Sunday,Weekend,Medium,High,Modern
+The Boondock Saints II: All Saints Day,Troy Duffy,2010-03-30,Tuesday,Workday,Medium,Med,Modern
+Shutter Island,Martin Scorsese,2010-03-16,Tuesday,Workday,Long,High,Modern
+The Walker,Paul Schrader,2010-03-14,Sunday,Weekend,Medium,Med,Modern
+Transsiberian,Brad Anderson,2010-03-14,Sunday,Weekend,Medium,Med,Modern
+"Good Night, and Good Luck.",George Clooney,2010-03-14,Sunday,Weekend,Medium,Med,Modern
+Rockers,Theodoros Bafaloukos,2010-03-06,Saturday,Weekend,Medium,Med,Retro
+Clockers,Spike Lee,2010-03-06,Saturday,Weekend,Long,Med,Old
+Harry Brown,Daniel Barber,2010-03-06,Saturday,Weekend,Medium,Med,Modern
+Fubar,Michael Dowse,2010-03-02,Tuesday,Workday,Short,High,Modern
+In the Loop,Armando Iannucci,2010-02-28,Sunday,Weekend,Medium,Med,Modern
+A Serious Man,"Ethan Coen, Joel Coen",2010-02-21,Sunday,Weekend,Medium,Med,Modern
+The Hurt Locker,Kathryn Bigelow,2010-02-21,Sunday,Weekend,Long,Med,Modern
+Valentine's Day,Garry Marshall,2010-02-17,Wednesday,Workday,Long,Med,Modern
+Powder Blue,Timothy Linh Bui,2010-02-07,Sunday,Weekend,Medium,Med,Modern
+The Men Who Stare at Goats,Grant Heslov,2010-02-07,Sunday,Weekend,Medium,Med,Modern
+Lady Vengeance,Park Chan Wook,2010-02-07,Sunday,Weekend,Medium,Med,Modern
+The Darwin Awards,Finn Taylor,2010-01-30,Saturday,Weekend,Medium,High,Modern
+Gosford Park,Robert Altman,2010-01-25,Monday,Workday,Long,Med,Modern
+Sherlock Holmes,Guy Ritchie,2010-01-25,Monday,Workday,Long,Med,Modern
+The Illusionist,Neil Burger,2010-01-25,Monday,Workday,Medium,Med,Modern
+The Imaginarium of Doctor Parnassus,Terry Gilliam,2010-01-18,Monday,Workday,Long,Med,Modern
+The Three Burials of Melquiades Estrada,Tommy Lee Jones,2010-01-17,Sunday,Weekend,Long,Med,Modern
+In the Valley of Elah,Paul Haggis,2010-01-17,Sunday,Weekend,Long,Med,Modern
+Babel,Alejandro González Iñárritu,2010-01-17,Sunday,Weekend,Long,Med,Modern
+Sympathy for Mr. Vengeance,Chan-wook Park,2010-01-12,Tuesday,Workday,Long,High,Modern
+Let the Right One In,Tomas Alfredson,2010-01-10,Sunday,Weekend,Medium,Med,Modern
+8½,Federico Fellini,2010-01-05,Tuesday,Workday,Long,Med,Retro
+Thirst,Chan-wook Park,2010-01-04,Monday,Workday,Long,Med,Modern
+Up,"Pete Docter, Bob Peterson",2010-01-01,Friday,Workday,Medium,Med,Modern
+Adaptation.,Spike Jonze,2009-12-28,Monday,Workday,Medium,Med,Modern
+Confessions of a Dangerous Mind,George Clooney,2009-12-27,Sunday,Weekend,Medium,High,Modern
+Avatar,James Cameron,2009-12-22,Tuesday,Workday,Long,High,Modern
+Dirty Pretty Things,Stephen Frears,2009-12-21,Monday,Workday,Medium,High,Modern
+Boy A,John Crowley,2009-12-09,Wednesday,Workday,Medium,High,Modern
+Stardust,Matthew Vaughn,2009-12-06,Sunday,Weekend,Long,High,Modern
+Law Abiding Citizen,F. Gary Gray,2009-12-06,Sunday,Weekend,Medium,Med,Modern
+U Turn,Oliver Stone,2009-11-29,Sunday,Weekend,Long,High,Old
+Pandorum,Christian Alvart,2009-11-14,Saturday,Weekend,Medium,Med,Modern
+Mary and Max,Adam Elliot,2009-11-08,Sunday,Weekend,Medium,High,Modern
+Moon,Duncan Jones,2009-10-30,Friday,Workday,Medium,High,Modern
+Slumdog Millionaire,"Danny Boyle, Loveleen Tandan",2009-10-22,Thursday,Workday,Medium,High,Modern
+The Tournament,Scott Mann,2009-10-18,Sunday,Weekend,Medium,Med,Modern
+Eight Below,Frank Marshall,2009-10-03,Saturday,Weekend,Medium,High,Modern
+Inglourious Basterds,Quentin Tarantino,2009-10-02,Friday,Workday,Long,High,Modern
+The Proposal,Anne Fletcher,2009-09-30,Wednesday,Workday,Medium,Med,Modern
+District 9,Neill Blomkamp,2009-09-24,Thursday,Workday,Medium,Med,Modern
+The Talented Mr. Ripley,Anthony Minghella,2009-09-13,Sunday,Weekend,Long,Med,Old
+Man on Fire,Tony Scott,2009-09-06,Sunday,Weekend,Long,Med,Modern
+Surveillance,Jennifer Lynch,2009-07-25,Saturday,Weekend,Medium,Med,Modern
+The Brothers Grimm,Terry Gilliam,2009-07-04,Saturday,Weekend,Medium,Med,Modern
+Vanilla Sky,Cameron Crowe,2009-06-30,Tuesday,Workday,Long,High,Modern
+Disturbia,D.J. Caruso,2009-05-24,Sunday,Weekend,Medium,Med,Modern
+Rumor Has It...,Rob Reiner,2009-05-16,Saturday,Weekend,Medium,Med,Modern
+Gattaca,Andrew Niccol,2009-05-14,Thursday,Workday,Medium,High,Old
+Choke,Clark Gregg,2009-05-03,Sunday,Weekend,Medium,Med,Modern
+The Curious Case of Benjamin Button,David Fincher,2009-05-02,Saturday,Weekend,Long,Med,Modern
+The Assassination of Jesse James by the Coward Robert Ford,Andrew Dominik,2009-04-20,Monday,Workday,Long,High,Modern
+"South Park: Bigger, Longer & Uncut",Trey Parker,2009-03-27,Friday,Workday,Short,Med,Old
+Persepolis,"Vincent Paronnaud, Marjane Satrapi",2009-03-24,Tuesday,Workday,Medium,Med,Modern
+[Rec],"Jaume Balagueró, Paco Plaza",2009-03-15,Sunday,Weekend,Short,Low,Modern
+Watchmen,Zack Snyder,2009-03-07,Saturday,Weekend,Long,High,Modern
+A Very Long Engagement,Jean-Pierre Jeunet,2009-02-14,Saturday,Weekend,Long,Med,Modern
+Seven Pounds,Gabriele Muccino,2009-01-28,Wednesday,Workday,Long,Med,Modern
+RocknRolla,Guy Ritchie,2009-01-24,Saturday,Weekend,Medium,High,Modern
+Chain of Fools,"Traktor, Traktor",2008-12-25,Thursday,Workday,Medium,High,Old
+Chaos Theory,Marcos Siega,2008-12-25,Thursday,Workday,Short,Med,Modern
+Human Traffic,Justin Kerrigan,2008-12-24,Wednesday,Workday,Medium,High,Old
+Cashback,Sean Ellis,2008-12-03,Wednesday,Workday,Medium,High,Modern
+Max Payne,John Moore,2008-11-16,Sunday,Weekend,Medium,High,Modern
+Pineapple Express,David Gordon Green,2008-11-07,Friday,Workday,Medium,Med,Modern
+Zift,Javor Gardev,2008-10-05,Sunday,Weekend,Medium,High,Modern
+Righteous Kill,Jon Avnet,2008-10-05,Sunday,Weekend,Medium,Med,Modern
+Kung Fu Panda,"Mark Osborne, John Stevenson",2008-08-04,Monday,Workday,Medium,High,Modern
+The Dark Knight,Christopher Nolan,2008-07-27,Sunday,Weekend,Long,Med,Modern
+Batman Begins,Christopher Nolan,2008-07-27,Sunday,Weekend,Long,Med,Modern
+3:10 to Yuma,James Mangold,2008-07-27,Sunday,Weekend,Long,High,Modern
+99 francs,Jan Kounen,2008-06-15,Sunday,Weekend,Medium,High,Modern
+In Bruges,Martin McDonagh,2008-06-15,Sunday,Weekend,Medium,High,Modern
+The Oxford Murders,Alex de la Iglesia,2008-06-11,Wednesday,Workday,Medium,Low,Modern
+Street Kings,David Ayer,2008-06-11,Wednesday,Workday,Medium,Med,Modern
+21,Robert Luketic,2008-06-11,Wednesday,Workday,Long,Med,Modern
+The Onion Movie,"James Kleiner, James Kleiner",2008-06-07,Saturday,Weekend,Short,High,Modern
+Redacted,Brian De Palma,2008-06-02,Monday,Workday,Short,High,Modern
+Formula 51,Ronny Yu,2008-06-02,Monday,Workday,Medium,Med,Modern
+Fearless,Peter Weir,2008-05-13,Tuesday,Workday,Long,Med,Old
+Mean Machine,Barry Skolnick,2008-05-09,Friday,Workday,Medium,High,Modern
+Secret Window,David Koepp,2008-05-09,Friday,Workday,Medium,Med,Modern
+House of Sand and Fog,Vadim Perelman,2008-05-03,Saturday,Weekend,Long,High,Modern
+Before the Devil Knows You're Dead,Sidney Lumet,2008-05-02,Friday,Workday,Medium,Med,Modern
+The Thirteenth Floor,Josef Rusnak,2008-04-22,Tuesday,Workday,Medium,High,Old
+We Are Not Angels,Srdjan Dragojevic,2008-04-20,Sunday,Weekend,Medium,Med,Old
+Juno,Jason Reitman,2008-04-20,Sunday,Weekend,Medium,Low,Modern
+The Thin Red Line,Terrence Malick,2008-04-15,Tuesday,Workday,Long,Med,Old
+Three Kings,David O. Russell,2008-04-13,Sunday,Weekend,Medium,Med,Old
+The Bank Job,Roger Donaldson,2008-04-13,Sunday,Weekend,Medium,Med,Modern
+The Incredibles,Brad Bird,2008-04-12,Saturday,Weekend,Medium,High,Modern
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Andrew Adamson,2008-04-12,Saturday,Weekend,Long,Low,Modern
+Bee Movie,"Simon J. Smith, Steve Hickner",2008-04-10,Thursday,Workday,Medium,Low,Modern
+Vantage Point,Pete Travis,2008-04-01,Tuesday,Workday,Short,Low,Modern
+Tell No One,Guillaume Canet,2008-03-29,Saturday,Weekend,Long,High,Modern
+Chasing Amy,Kevin Smith,2008-03-28,Friday,Workday,Medium,Med,Old
+Minority Report,Steven Spielberg,2008-03-28,Friday,Workday,Long,Med,Modern
+Total Recall,Paul Verhoeven,2008-03-28,Friday,Workday,Medium,Med,Old
+The Acid House,Paul McGuigan,2008-03-27,Thursday,Workday,Medium,Med,Old
+The Number 23,Joel Schumacher,2008-03-27,Thursday,Workday,Medium,Low,Modern
+Wild at Heart,David Lynch,2008-03-27,Thursday,Workday,Long,Low,Old
+Serenity,Joss Whedon,2008-03-23,Sunday,Weekend,Medium,Med,Modern
+A Few Good Men,Rob Reiner,2008-03-20,Thursday,Workday,Long,High,Old
+Team America: World Police,Trey Parker,2008-03-16,Sunday,Weekend,Medium,Med,Modern
+Sexy Beast,Jonathan Glazer,2008-03-09,Sunday,Weekend,Short,Med,Old
+A Scanner Darkly,Richard Linklater,2008-03-03,Monday,Workday,Medium,Med,Modern
+There Will Be Blood,Paul Thomas Anderson,2008-03-03,Monday,Workday,Long,Med,Modern
+Gangs of New York,Martin Scorsese,2008-03-03,Monday,Workday,Long,Med,Modern
+Little Miss Sunshine,"Jonathan Dayton, Valerie Faris",2008-02-17,Sunday,Weekend,Medium,High,Modern
+V for Vendetta,James McTeigue,2008-02-10,Sunday,Weekend,Long,Med,Modern
+Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,2008-02-05,Tuesday,Workday,Medium,High,Modern
+He Was a Quiet Man,Frank A. Cappello,2008-02-02,Saturday,Weekend,Medium,High,Modern
+The Nines,John August,2008-01-26,Saturday,Weekend,Medium,Med,Modern
+Jackie Brown,Quentin Tarantino,2008-01-14,Monday,Workday,Long,Med,Old
+Death Sentence,James Wan,2008-01-13,Sunday,Weekend,Medium,Med,Modern
+No Country for Old Men,"Ethan Coen, Joel Coen",2008-01-13,Sunday,Weekend,Long,High,Modern
+Ronin,John Frankenheimer,2008-01-13,Sunday,Weekend,Long,Med,Old
+The Virgin Suicides,Sofia Coppola,2008-01-13,Sunday,Weekend,Medium,Med,Old
+Ichi the Killer,Takashi Miike,2008-01-06,Sunday,Weekend,Long,Low,Modern
+Hearts in Atlantis,Scott Hicks,2008-01-06,Sunday,Weekend,Medium,High,Modern
+Senseless,Penelope Spheeris,2008-01-03,Thursday,Workday,Medium,Med,Old
+Kit,Petar B. Vasilev,2008-01-03,Thursday,Workday,Short,High,Retro
+Edward Scissorhands,Tim Burton,2007-12-30,Sunday,Weekend,Medium,Med,Old
+The Marathon Family,Slobodan Sijan,2007-12-29,Saturday,Weekend,Medium,High,Old
+Waking Life,Richard Linklater,2007-12-29,Saturday,Weekend,Medium,High,Modern
+Pan's Labyrinth,Guillermo del Toro,2007-12-29,Saturday,Weekend,Medium,High,Modern
+I Am Legend,Francis Lawrence,2007-12-29,Saturday,Weekend,Medium,Med,Modern
+Lucky Number Slevin,Paul McGuigan,2007-12-29,Saturday,Weekend,Medium,High,Modern
+Signs,M. Night Shyamalan,2007-12-29,Saturday,Weekend,Medium,Med,Modern
+The Man from Earth,Richard Schenkman,2007-12-29,Saturday,Weekend,Short,Med,Modern
+Casino Royale,Martin Campbell,2007-12-28,Friday,Workday,Long,Med,Modern
+The Jacket,John Maybury,2007-12-27,Thursday,Workday,Medium,Med,Modern
+The Fountain,Darren Aronofsky,2007-12-27,Thursday,Workday,Medium,Med,Modern
+Road to Perdition,Sam Mendes,2007-12-27,Thursday,Workday,Medium,Med,Modern
+Live Free or Die Hard,Len Wiseman,2007-12-27,Thursday,Workday,Long,Med,Modern
+Pi,Darren Aronofsky,2007-12-27,Thursday,Workday,Short,Low,Old
+The Boondock Saints,Troy Duffy,2007-12-26,Wednesday,Workday,Medium,High,Old
+Idiocracy,Mike Judge,2007-12-23,Sunday,Weekend,Short,Med,Modern
+25th Hour,Spike Lee,2007-12-05,Wednesday,Workday,Long,Med,Modern
+Apocalypto,Mel Gibson,2007-12-05,Wednesday,Workday,Long,Med,Modern
+Dogville,Lars Von Trier,2007-12-04,Tuesday,Workday,Long,High,Modern
+Everything Is Illuminated,Liev Schreiber,2007-12-02,Sunday,Weekend,Medium,High,Modern
+Sleepy Hollow,Tim Burton,2007-12-02,Sunday,Weekend,Medium,Med,Old
+Irreversible,Gaspar Noé,2007-12-02,Sunday,Weekend,Medium,High,Modern
+Blue Velvet,David Lynch,2007-12-02,Sunday,Weekend,Medium,Med,Old
+Cape Fear,Martin Scorsese,2007-12-02,Sunday,Weekend,Long,High,Old
+Being John Malkovich,Spike Jonze,2007-12-02,Sunday,Weekend,Medium,High,Old
+Sideways,Alexander Payne,2007-12-02,Sunday,Weekend,Long,High,Modern
+Ed Wood,Tim Burton,2007-11-29,Thursday,Workday,Long,Med,Old
+Run Lola Run,Tom Tykwer,2007-11-29,Thursday,Workday,Short,Low,Old
+Dead Man Walking,Tim Robbins,2007-11-29,Thursday,Workday,Long,High,Old
+The Matrix,"The Wachowski Brothers, The Wachowski Brothers",2007-11-29,Thursday,Workday,Long,High,Old
+The Prestige,Christopher Nolan,2007-11-29,Thursday,Workday,Long,High,Modern
+Saving Private Ryan,Steven Spielberg,2007-11-29,Thursday,Workday,Long,Med,Old
+The Silence of the Lambs,Jonathan Demme,2007-11-29,Thursday,Workday,Medium,Med,Old
+Schindler's List,Steven Spielberg,2007-11-29,Thursday,Workday,Long,Med,Old
+Star Wars: Episode IV - A New Hope,George Lucas,2007-11-29,Thursday,Workday,Long,Low,Retro
+Heat,Michael Mann,2007-11-29,Thursday,Workday,Long,High,Old
+The Lord of the Rings: The Return of the King,Peter Jackson,2007-11-29,Thursday,Workday,Long,Low,Modern
+12 Angry Men,Sidney Lumet,2007-11-29,Thursday,Workday,Medium,Med,Retro
+Trainspotting,Danny Boyle,2007-11-29,Thursday,Workday,Medium,High,Old
+One Flew Over the Cuckoo's Nest,Milos Forman,2007-11-29,Thursday,Workday,Long,High,Retro
+The Lord of the Rings: The Two Towers,Peter Jackson,2007-11-29,Thursday,Workday,Long,Low,Modern
+Life Is Beautiful,Roberto Benigni,2007-11-29,Thursday,Workday,Medium,High,Old
+City of God,"Fernando Meirelles, Kátia Lund",2007-11-29,Thursday,Workday,Long,High,Modern
+Children of Men,Alfonso Cuarón,2007-11-29,Thursday,Workday,Medium,Med,Modern
+The Pianist,Roman Polanski,2007-11-29,Thursday,Workday,Long,High,Modern
+Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,2007-11-29,Thursday,Workday,Long,Low,Retro
+Casino,Martin Scorsese,2007-11-29,Thursday,Workday,Long,Med,Old
+Twelve Monkeys,Terry Gilliam,2007-11-29,Thursday,Workday,Long,Med,Old
+Seven Samurai,Akira Kurosawa,2007-11-29,Thursday,Workday,Long,Med,Retro
+Kill Bill: Vol. 2,Quentin Tarantino,2007-11-29,Thursday,Workday,Long,High,Modern
+Big Fish,Tim Burton,2007-11-29,Thursday,Workday,Long,Med,Modern
+Dog Day Afternoon,Sidney Lumet,2007-11-28,Wednesday,Workday,Long,Med,Retro
+The Libertine,Laurence Dunmore,2007-11-25,Sunday,Weekend,Medium,Med,Modern
+The Green Mile,Frank Darabont,2007-11-25,Sunday,Weekend,Long,High,Old
+The Usual Suspects,Bryan Singer,2007-11-25,Sunday,Weekend,Medium,High,Old
+The Big Lebowski,Joel Coen,2007-11-25,Sunday,Weekend,Medium,Med,Old
+Ratatouille,"Brad Bird, Jan Pinkava",2007-11-25,Sunday,Weekend,Medium,High,Modern
+Old School,Todd Phillips,2007-11-25,Sunday,Weekend,Short,Med,Modern
+Layer Cake,Matthew Vaughn,2007-11-25,Sunday,Weekend,Medium,High,Modern
+Finding Neverland,Marc Forster,2007-11-25,Sunday,Weekend,Medium,High,Modern
+Corpse Bride,"Tim Burton, Mike Johnson",2007-11-25,Sunday,Weekend,Short,High,Modern
+Se7en,David Fincher,2007-11-10,Saturday,Weekend,Long,Med,Old
+L.A. Confidential,Curtis Hanson,2007-11-10,Saturday,Weekend,Long,High,Old
+Open Your Eyes,Alejandro Amenábar,2007-11-05,Monday,Workday,Medium,High,Old
+Click,Frank Coraci,2007-11-04,Sunday,Weekend,Medium,Med,Modern
+Thank You for Smoking,Jason Reitman,2007-10-21,Sunday,Weekend,Medium,High,Modern
+The Good Shepherd,Robert De Niro,2007-10-20,Saturday,Weekend,Long,Med,Modern
+American Beauty,Sam Mendes,2007-10-16,Tuesday,Workday,Long,High,Old
+A Beautiful Mind,Ron Howard,2007-10-16,Tuesday,Workday,Long,High,Modern
+Angel Heart,Alan Parker,2007-10-16,Tuesday,Workday,Medium,Med,Old
+London,Hunter Richards,2007-10-10,Wednesday,Workday,Medium,High,Modern
+Clerks,Kevin Smith,2007-10-10,Wednesday,Workday,Medium,High,Old
+Jay and Silent Bob Strike Back,Kevin Smith,2007-10-10,Wednesday,Workday,Medium,High,Modern
+Clerks II,Kevin Smith,2007-10-10,Wednesday,Workday,Medium,High,Modern
+Blow,Ted Demme,2007-10-10,Wednesday,Workday,Long,High,Modern
+Dogma,Kevin Smith,2007-10-10,Wednesday,Workday,Long,High,Old
+Buffalo Soldiers,Gregor Jordan,2007-10-08,Monday,Workday,Medium,High,Modern
+8MM,Joel Schumacher,2007-10-08,Monday,Workday,Long,High,Old
+Revolver,Guy Ritchie,2007-10-08,Monday,Workday,Medium,High,Modern
+Eyes Wide Shut,Stanley Kubrick,2007-10-08,Monday,Workday,Long,High,Old
+Léon: The Professional,Luc Besson,2007-10-08,Monday,Workday,Medium,Med,Old
+Mulholland Dr.,David Lynch,2007-10-08,Monday,Workday,Long,High,Modern
+Scarface,Brian De Palma,2007-10-08,Monday,Workday,Long,Med,Old
+Once Upon a Time in America,Sergio Leone,2007-10-08,Monday,Workday,Long,High,Old
+Boogie Nights,Paul Thomas Anderson,2007-10-08,Monday,Workday,Long,High,Old
+The Devil's Advocate,Taylor Hackford,2007-10-08,Monday,Workday,Long,High,Old
+Magnolia,Paul Thomas Anderson,2007-10-08,Monday,Workday,Long,Med,Old
+Face/Off,John Woo,2007-10-08,Monday,Workday,Long,Med,Old
+Once Upon a Time in Mexico,Robert Rodriguez,2007-10-08,Monday,Workday,Medium,Low,Modern
+Rounders,John Dahl,2007-10-08,Monday,Workday,Long,High,Old
+Big Nothing,Jean-Baptiste Andrea,2007-10-07,Sunday,Weekend,Short,High,Modern
+Man Bites Dog,"Rémy Belvaux, André Bonzel",2007-10-07,Sunday,Weekend,Medium,High,Old
+Spider,David Cronenberg,2007-10-07,Sunday,Weekend,Medium,Med,Modern
+Amores Perros,Alejandro González Iñárritu,2007-10-07,Sunday,Weekend,Long,High,Old
+Very Bad Things,Peter Berg,2007-10-07,Sunday,Weekend,Medium,High,Old
+The Game,David Fincher,2007-10-07,Sunday,Weekend,Long,High,Old
+21 Grams,Alejandro González Iñárritu,2007-10-07,Sunday,Weekend,Long,High,Modern
+Tideland,Terry Gilliam,2007-10-03,Wednesday,Workday,Medium,High,Modern
+Fear and Loathing in Las Vegas,Terry Gilliam,2007-09-30,Sunday,Weekend,Medium,High,Old
+Underground,Emir Kusturica,2007-09-26,Wednesday,Workday,Long,High,Old
+"Black Cat, White Cat",Emir Kusturica,2007-09-26,Wednesday,Workday,Long,High,Old
+Spun,Jonas Åkerlund,2007-07-06,Friday,Workday,Medium,High,Modern
+K-PAX,Iain Softley,2007-06-26,Tuesday,Workday,Medium,High,Modern
+The Butterfly Effect,"Eric Bress, J. Mackye Gruber",2007-06-24,Sunday,Weekend,Medium,Med,Modern
+It's All Gone Pete Tong,Michael Dowse,2007-06-11,Monday,Workday,Short,High,Modern
+Memento,Christopher Nolan,2007-04-29,Sunday,Weekend,Medium,High,Old
+The Machinist,Brad Anderson,2007-04-29,Sunday,Weekend,Medium,High,Modern
+Smokin' Aces,Joe Carnahan,2007-04-09,Monday,Workday,Medium,Med,Modern
+Thursday,Skip Woods,2007-04-02,Monday,Workday,Short,High,Old
+The Apartment,Billy Wilder,2007-03-10,Saturday,Weekend,Long,High,Retro
+American History X,Tony Kaye,2007-03-10,Saturday,Weekend,Medium,High,Old
+The Shining,Stanley Kubrick,2007-03-10,Saturday,Weekend,Long,Low,Retro
+Fight Club,David Fincher,2007-03-10,Saturday,Weekend,Long,High,Old
+The Departed,Martin Scorsese,2007-03-10,Saturday,Weekend,Long,High,Modern
+Forrest Gump,Robert Zemeckis,2007-03-10,Saturday,Weekend,Long,Med,Old
+Braveheart,Mel Gibson,2007-03-10,Saturday,Weekend,Long,High,Old
+Requiem for a Dream,Darren Aronofsky,2007-03-10,Saturday,Weekend,Medium,High,Old
+Donnie Darko,Richard Kelly,2007-03-10,Saturday,Weekend,Medium,Low,Modern
+Apocalypse Now,Francis Coppola,2007-03-10,Saturday,Weekend,Long,High,Retro
+Snatch,Guy Ritchie,2007-03-10,Saturday,Weekend,Medium,High,Old
+Fargo,Joel Coen,2007-03-10,Saturday,Weekend,Medium,High,Old
+A Clockwork Orange,Stanley Kubrick,2007-03-10,Saturday,Weekend,Long,High,Retro
+Reservoir Dogs,Quentin Tarantino,2007-03-10,Saturday,Weekend,Medium,High,Old
+Kill Bill: Vol. 1,Quentin Tarantino,2007-03-10,Saturday,Weekend,Medium,High,Modern
+Sin City,"Frank Miller, Robert Rodriguez",2007-03-10,Saturday,Weekend,Long,High,Modern
+"Lock, Stock and Two Smoking Barrels",Guy Ritchie,2007-03-10,Saturday,Weekend,Medium,High,Old
+Million Dollar Baby,Clint Eastwood,2007-03-10,Saturday,Weekend,Long,High,Modern
+Crash,Paul Haggis,2007-03-10,Saturday,Weekend,Medium,High,Modern
+Monty Python and the Holy Grail,"Terry Gilliam, Terry Jones",2007-03-10,Saturday,Weekend,Medium,Low,Retro
+Brazil,Terry Gilliam,2007-03-10,Saturday,Weekend,Long,High,Old
+Life of Brian,Terry Jones,2007-03-10,Saturday,Weekend,Medium,High,Retro
+Goodfellas,Martin Scorsese,2006-07-15,Saturday,Weekend,Long,High,Old
+Teoriya zapoya,Natalja Pogonischewa,2006-03-17,Friday,Workday,Short,High,Modern
+Bad Education,Pedro Almodóvar,2006-03-12,Sunday,Weekend,Medium,High,Modern
+Oldboy,Chan-wook Park,2006-03-12,Sunday,Weekend,Medium,High,Modern
+The Shawshank Redemption,Frank Darabont,2006-03-08,Wednesday,Workday,Long,High,Old
+Pulp Fiction,Quentin Tarantino,2006-03-08,Wednesday,Workday,Long,High,Old
+Cypher,Vincenzo Natali,2006-02-23,Thursday,Workday,Medium,High,Modern
+Catch-22,Mike Nichols,2006-01-31,Tuesday,Workday,Long,High,Retro
